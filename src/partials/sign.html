@@ -1,0 +1,35 @@
+<section class="grid-container sign">
+    <article class="grid-x grid-padding-x">
+        {{#with (lookup signs i)}}
+        {{#with (lookup members ../j)}}
+        <figure class="medium-6">
+            <img src="{{image}}" alt={{name}}>
+        </figure>
+        <section class="medium-6 grid-x grid-padding-x align-middle">
+            <section class="small-6">
+                <li>Zodiac Symbol</li>
+                <li>Duration</li>
+                <li>Constellation</li>
+                <li>Zodiac Element</li>
+                <li>Zodiac Quality</li>
+                <li>Sign Ruler</li>
+                <li>Detriment</li>
+                <li>Exaltation</li>
+                <li>Fall</li>
+            </section>
+            <section class="small-6">
+                <div>{{symbol}}</div>
+                <div>{{duration}}</div>
+                <div>{{constellation}}</div>
+                <div>{{../element}}</div>
+                <div>{{quality}}</div>
+                <div>{{ruler}}</div>
+                <div>{{detriment}}</div>
+                <div>{{exaltation}}</div>
+                <div>{{fall}}</div>
+            </section>
+        </section>
+        {{/with}}
+        {{/with}}
+    </article>
+</section>
