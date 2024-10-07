@@ -1,0 +1,14 @@
+.sign {
+    figure {
+        @extend .text-center;
+        img {
+            width: 80%;
+        }
+    }
+    figure, section {
+        @extend .cell;
+    }
+    li, div {
+        white-space: nowrap;
+    }
+}
