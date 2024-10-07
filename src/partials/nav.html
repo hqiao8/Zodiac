@@ -1,0 +1,23 @@
+<nav>
+    <summary data-hide-for="medium" data-responsive-toggle="menu" class="title-bar">
+        <button type="button" data-toggle class="menu-icon"></button>
+    </summary>
+    <section data-animate="hinge-in-from-top hinge-out-from-top" id="menu" class="top-bar">
+        <section class="top-bar-right">
+            <ul data-responsive-menu="drilldown medium-dropdown" class="menu vertical medium-horizontal">
+                {{#each signs}}
+                <li>
+                    <a>{{element}}</a>
+                    <ul class="menu vertical">
+                        {{#each members}}
+                        <li>
+                            <a href="/{{name}}.html">{{name}}</a>
+                        </li>
+                        {{/each}}
+                    </ul>
+                </li>
+                {{/each}}
+            </ul>
+        </section>
+    </section>
+</nav>
