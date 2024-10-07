@@ -1,0 +1,7 @@
+<li class="orbit-slide{{#ifequal i 0}} is-active{{/ifequal}}">
+    <figure class="orbit-figure">
+        {{#with (lookup orbit i)}}
+        <img src="{{image}}" alt="slide {{../i}}" class="orbit-image">
+        {{/with}}
+    </figure>
+</li>
