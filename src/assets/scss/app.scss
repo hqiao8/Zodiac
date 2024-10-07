@@ -63,3 +63,9 @@
 // Motion UI
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+// Custom Components
+@import 'components/header';
+@import 'components/nav';
+@import 'components/sign';
+@import 'components/footer';
