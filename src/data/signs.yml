@@ -1,0 +1,143 @@
+- element: Fire
+  members:
+    - name: aries
+      code: &#9800
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aries_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Aries_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Ram
+      duration: March 20 - April 19
+      constellation: Aries
+      quality: Cardinal
+      ruler: Mars
+      detriment: Venus
+      exaltation: Sun
+      fall: Saturn
+    - name: leo
+      code: &#9804
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Leo_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Leo_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Lion
+      duration: July 22 - August 22
+      constellation: Leo
+      quality: Fixed
+      ruler: Sun
+      detriment: Saturn and Uranus
+      exaltation: Pluto
+      fall: Neptune
+    - name: sagittarius
+      code: &#9808
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sagittarius_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Sagittarius_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Archer
+      duration: November 21 - December 21
+      constellation: Sagittarius
+      quality: Mutable
+      ruler: Jupiter
+      detriment: Mercury
+      exaltation: South Node, Chiron
+      fall: North Node, Ceres
+
+- element: Earth
+  members:
+    - name: taurus
+      code: &#9801
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Taurus_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Taurus_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Bull
+      duration: April 19 - May 20
+      constellation: Taurus
+      quality: Fixed
+      ruler: Venus
+      detriment: Mars and Pluto
+      exaltation: Moon
+      fall: Uranus
+    - name: virgo
+      code: &#9805
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Virgo_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Virgo_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: The Virgin
+      duration: August 22 - September 22
+      constellation: Virgo
+      quality: Mutable
+      ruler: Mercury
+      detriment: Jupiter and Neptune
+      exaltation: Mercury
+      fall: Venus
+    - name: capricorn
+      code: &#9809
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Capricornus_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Capricornus_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Sea Goat
+      duration: December 21 - January 19
+      constellation: Capricornus
+      quality: Cardinal
+      ruler: Saturn
+      detriment: Moon
+      exaltation: Mars
+      fall: Jupiter
+
+- element: Air
+  members:
+    - name: gemini
+      code: &#9802
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gemini_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Gemini_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Twins
+      duration: May 20 - June 20
+      constellation: Gemini
+      quality: Mutable
+      ruler: Mercury
+      detriment: Jupiter
+      exaltation: North Node
+      fall: South Node
+    - name: libra
+      code: &#9806
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Libra_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Libra_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Scales
+      duration: September 22 - October 22
+      constellation: Libra
+      quality: Cardinal
+      ruler: Venus
+      detriment: Mars
+      exaltation: Saturn
+      fall: Sun
+    - name: aquarius
+      code: &#9810
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aquarius_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Aquarius_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Water-Bearer
+      duration: January 20 - February 19
+      constellation: Aquarius
+      quality: Fixed
+      ruler: Uranus
+      detriment: Sun
+      exaltation: Neptune
+      fall: Pluto
+
+- element: Water
+  members:
+    - name: cancer
+      code: &#9803
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cancer_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Cancer_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Crab
+      duration: June 20 - July 22
+      constellation: Cancer
+      quality: Cardinal
+      ruler: Moon
+      detriment: Saturn
+      exaltation: Jupiter
+      fall: Mars
+    - name: scorpio
+      code: &#9807
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Scorpio_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Scorpio_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Scorpion
+      duration: October 22 - November 21
+      constellation: Scorpius
+      quality: Fixed
+      ruler: Pluto
+      detriment: Venus
+      exaltation: Uranus
+      fall: Moon
+    - name: pisces
+      code: &#9811
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pisces_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg/220px-Pisces_Astrological_Sign_at_the_Wisconsin_State_Capitol.jpg
+      symbol: Two Fish
+      duration: February 19 - March 20
+      constellation: Pisces
+      quality: Mutable
+      ruler: Neptune
+      detriment: Mercury
+      exaltation: Venus
+      fall: Mercury
