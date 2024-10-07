@@ -1,0 +1,6 @@
+<button data-slide="{{i}}"{{#ifequal i 0}} class="is-active"{{/ifequal}}>
+    <span class="show-for-sr">{{order}} Slide</span>
+    {{#ifequal i 0}}
+    <span data-slide-active-label class="show-for-sr">Current Slide</span>
+    {{/ifequal}}
+</button>
